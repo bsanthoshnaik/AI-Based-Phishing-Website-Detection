@@ -1,0 +1,8 @@
+numpy==2.0.2
+pandas==2.2.2
+requests==2.32.3
+matplotlib==3.10.0
+flask==3.1.0
+catboost==1.2.8
+tensorflow==2.20.0
+tldextract==5.3.0
